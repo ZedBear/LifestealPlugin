@@ -1,0 +1,6 @@
+name: LifeSteal
+version: 1.0
+author: ZedBear
+main: me.zedbear.LifestealPlugin.Main
+api-version: 1.17
+
